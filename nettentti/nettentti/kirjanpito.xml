@@ -1,0 +1,26 @@
+<kirjanpidot>
+	<kirjanpito>
+		<koodaaja>linus</koodaaja>
+		<date>10.12.2015</date>
+		<koodaus-h>1</koodaus-h>
+		<koodaus-m>12</koodaus-m>
+	</kirjanpito>
+	<kirjanpito>
+		<koodaaja>richard</koodaaja>
+		<date>10.12.2015</date>
+		<koodaus-h>2</koodaus-h>
+		<koodaus-m>45</koodaus-m>
+	</kirjanpito>
+	<kirjanpito>
+		<koodaaja>monty</koodaaja>
+		<date>10.12.2015</date>
+		<koodaus-h>2</koodaus-h>
+		<koodaus-m>34</koodaus-m>
+	</kirjanpito>
+	<kirjanpito>
+		<koodaaja>bjarne</koodaaja>
+		<date>10.12.2015</date>
+		<koodaus-h>3</koodaus-h>
+		<koodaus-m>10</koodaus-m>
+	</kirjanpito>
+</kirjanpidot>
